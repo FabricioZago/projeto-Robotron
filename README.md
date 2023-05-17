@@ -9,4 +9,4 @@
 
 - Como o dimensionamento da tela
 - Ele ficar com peças negativas
-- O botão iniciar não serve pra nada
+- O botão "iniciar" não serve pra nada
